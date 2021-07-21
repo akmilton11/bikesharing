@@ -28,6 +28,7 @@ Number of trips are heaviest around 8AM, 5PM, and 6PM between all the genders.
 
 ### User Trips by Gender by Weekday
 ![](https://github.com/akmilton11/bikesharing/blob/main/Images/Trips_by_Weekday_per_Hour.PNG)
+
 Subscribes peak on Thursday for both Male and Female, while customers peak on the weekends.
 
 ### Top Starting Locations NYC
