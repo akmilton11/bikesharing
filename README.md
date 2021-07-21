@@ -35,7 +35,8 @@ Subscribes peak on Thursday for both Male and Female, while customers peak on th
 ### Top Ending Locations NYC
 ![](https://github.com/akmilton11/bikesharing/blob/main/Images/Top_Ending_Locations.PNG)
 
-Top starting and ending locations seem to have a strong correlation with the larger and darker circles matching up against eachother. It would be wise for the program in Des Moines to be centrally located seeing as they have a smaller population.
+Top starting and ending locations seem to have a strong correlation with the larger and darker circles matching up against each other. It would be wise for the program in Des Moines to be centrally located seeing as they have a smaller population.
 
 ### Summary:
-With this data the Des Moines bikesharing program could get going! The biggest difference is the population density. This is one of the first suggestions I'd like to make. They will need to map out the population and place their bike sharing stations near the bulk of the population or perhaps the universities. The second discrepancy would be space, in the city using a bike for 5 minutes might be very easy, but in a large venue - the trip duration might be longer. They will need to consider trip duration in a rural area - perhaps breakout it out by gender as well.  
+With this data the Des Moines bike sharing program could get going! The biggest difference is the population density. This is one of the first suggestions I'd like to make. They will need to map out the population and place their bike sharing stations near the bulk of the population or perhaps the universities. The second discrepancy would be space, in the city using a bike for 5 minutes might be very easy, but in a large venue - the trip duration might be longer. They will need to consider trip duration in a rural area - perhaps breakout it out by gender as well. The program can be successful if they are centrally located in the larger populated areas and the additional stations are two sparsely spread out.
+
