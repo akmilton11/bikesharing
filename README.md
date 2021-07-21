@@ -14,3 +14,9 @@ Summary:
 ![](Images/August_Peak_Hours.png)
 
 There is a high-level summary of the results and two additional visualizations are suggested for future analysis (5 pt)
+
+![](Images/Top_Starting_Locations.png)
+
+
+
+![](Images/Top_Ending_Locations.png)
