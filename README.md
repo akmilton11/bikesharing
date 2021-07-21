@@ -9,14 +9,24 @@ There is still some more work to be done to convince investors that a bike-shari
 
 There are at least seven visualizations for the NYC Citibike analysis (7 pt)
 There is a description of the results for each visualization (7 pt)
-Summary:
+Summary visualizations:
 
-![](Images/August_Peak_Hours.png)
+### Checkout Times by Gender
+
+### Checkout Timnes for Users
+
+### Trips by Gender
+
+### Trips by Weekday per Hour
+
+### User Trips by Gender by Weekday
+
 
 There is a high-level summary of the results and two additional visualizations are suggested for future analysis (5 pt)
 
+### Top Starting Locations NYC
 ![](Images/Top_Starting_Locations.png)
 
 
-
+### Top Ending Locations NYC
 ![](Images/Top_Ending_Locations.png)
