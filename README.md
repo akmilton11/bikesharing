@@ -12,21 +12,23 @@ There is a description of the results for each visualization (7 pt)
 Summary visualizations:
 
 ### Checkout Times by Gender
+![](https://github.com/akmilton11/bikesharing/blob/main/Images/Checkout_Times_by_Gender.PNG)
+
 
 ### Checkout Timnes for Users
-
+![](https://github.com/akmilton11/bikesharing/blob/main/Images/Checkout_Times_for_Users.PNG)
 ### Trips by Gender
-
+![](https://github.com/akmilton11/bikesharing/blob/main/Images/Trips_by_Gender.PNG)
 ### Trips by Weekday per Hour
-
+![](https://github.com/akmilton11/bikesharing/blob/main/Images/Checkout_Times_by_Gender.PNG)
 ### User Trips by Gender by Weekday
-
+![](https://github.com/akmilton11/bikesharing/blob/main/Images/Trips_by_Weekday_per_Hour.PNG)
 
 There is a high-level summary of the results and two additional visualizations are suggested for future analysis (5 pt)
 
 ### Top Starting Locations NYC
-![](Images/Top_Starting_Locations.png)
+![](https://github.com/akmilton11/bikesharing/blob/main/Images/Top_Starting_Locations.PNG)
 
 
 ### Top Ending Locations NYC
-![](Images/Top_Ending_Locations.png)
+![](https://github.com/akmilton11/bikesharing/blob/main/Images/Top_Ending_Locations.PNG)
