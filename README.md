@@ -19,7 +19,7 @@ Trip duration peaks at 5 minutes.
 The checkout time is heavily favored by "Male". While the "Female" checkout time is less, the tripduration affects all genders the same.
 
 ### Trips by Weekday per Hour
-![](https://github.com/akmilton11/bikesharing/blob/main/Images/Checkout_Times_by_Gender.PNG)
+![](https://github.com/akmilton11/bikesharing/blob/main/Images/Trips_by_Weekday_per_Hour.PNG)
 Trips are heaviest during early morning and late afternoon for the weekday and late mornings and early afternoons for the weekends. 
 
 ### Trips by Gender
@@ -27,7 +27,7 @@ Trips are heaviest during early morning and late afternoon for the weekday and l
 Number of trips are heaviest around 8AM, 5PM, and 6PM between all the genders.
 
 ### User Trips by Gender by Weekday
-![](https://github.com/akmilton11/bikesharing/blob/main/Images/Trips_by_Weekday_per_Hour.PNG)
+![](https://github.com/akmilton11/bikesharing/blob/main/Images/User_Trips_by_Gender_by_Weekday.PNG)
 
 Subscribes peak on Thursday for both Male and Female, while customers peak on the weekends.
 
